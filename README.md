@@ -21,8 +21,9 @@ ip a shows 10.0.0.2
 ping tests successful
 snapshot saved
 ## screenshots
-
 ## Kali Linux in VirtualBox
 ![Kali Virtualbox](<screenshots/Kali Linux virtualbox.png>)
 ## Kali Linux Desktop
 ![Kali Linux](screenshots/kali.linux.png)
+## Kali linux running
+![Kali Linux](<screenshots/Kali linux running.png>)
