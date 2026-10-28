@@ -22,6 +22,6 @@ ping tests successful
 snapshot saved
 ## screenshots
 ## Kali Linux in VirtualBox
-![Kali Virtualbox](screenshots/Kali Linux virtualbox.png)
+![Kali Virtualbox](<screenshots/Kali Linux virtualbox.png>)
 ## Kali Linux Desktop
 ![Kali Linux](screenshots/kali.linux.png)
